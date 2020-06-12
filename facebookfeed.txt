@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Facebook Feed Filter List
 ! Description: Remove events and recommendations from the Facebook feed
-! Expires: 1 days (update frequency)
+! Expires: 7 days (update frequency)
 ! Version: 1
 ! Last modified: 12 Jun 2020
 ! Homepage: https://github.com/jakubvalenta/adblock-lists
