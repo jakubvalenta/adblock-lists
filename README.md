@@ -14,6 +14,12 @@ Remove events and recommendations from the Facebook feed.
 
     https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/facebookfeed.txt
 
+    ![](./screenshots/ublock-origin-custom.png)
+
+3. Click _Apply changes_:
+
+    ![](./screenshots/ublock-origin-apply.png)
+
 ## Contributing
 
 __Feel free to remix this project__ under the terms of the [Apache License,
