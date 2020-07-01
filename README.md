@@ -20,6 +20,20 @@ Remove events and recommendations from the Facebook feed.
 
     ![](./screenshots/ublock-origin-apply.png)
 
+## Instagram and Facebook
+
+Remove Stories from the Instagram and Facebook websites.
+
+### Installation
+
+1. Install [uBlock Origin](https://github.com/gorhill/uBlock).
+
+2. Add this URL to _uBLock Origin Settings_ > _Filter Lists_ > _Custom_:
+
+    https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/stories.txt
+
+3. Click _Apply changes_.
+
 ## Contributing
 
 __Feel free to remix this project__ under the terms of the [Apache License,

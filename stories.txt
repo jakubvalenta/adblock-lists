@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Title: Stories Filter List
+! Description: Remove Stories from the Instagram and Facebook websites
+! Expires: 7 days (update frequency)
+! Version: 1
+! Last modified: 01 Jul 2020
+! Homepage: https://github.com/jakubvalenta/adblock-lists
+! License: https://www.apache.org/licenses/LICENSE-2.0
+
+instagram.com##.VideM
+facebook.com##div[aria-label=Stories]
