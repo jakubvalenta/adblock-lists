@@ -6,33 +6,38 @@ Modify some websites using Adblock.
 
 Remove events and recommendations from the Facebook feed.
 
-### Installation
+https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/facebookfeed.txt
+
+## Instagram and Facebook
+
+Remove Stories from the Instagram and Facebook websites.
+
+https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/stories.txt
+
+## YouTube
+
+Remove all comments.
+
+https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/youtube.txt
+
+## Installation
 
 1. Install [uBlock Origin](https://github.com/gorhill/uBlock).
 
-2. Add this URL to _uBLock Origin Settings_ > _Filter Lists_ > _Custom_:
+2. Add URLs of the desired filter lists to _uBLock Origin Settings_ > _Filter
+   Lists_ > _Custom_:
 
     https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/facebookfeed.txt
+
+    https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/stories.txt
+
+    https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/youtube.txt
 
     ![](./screenshots/ublock-origin-custom.png)
 
 3. Click _Apply changes_:
 
     ![](./screenshots/ublock-origin-apply.png)
-
-## Instagram and Facebook
-
-Remove Stories from the Instagram and Facebook websites.
-
-### Installation
-
-1. Install [uBlock Origin](https://github.com/gorhill/uBlock).
-
-2. Add this URL to _uBLock Origin Settings_ > _Filter Lists_ > _Custom_:
-
-    https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/stories.txt
-
-3. Click _Apply changes_.
 
 ## Contributing
 
