@@ -1,10 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: YouTube Filter List
-! Description: Remove all YouTube comments
+! Description: Hide all comments, the number of subscribers, and video rating
 ! Expires: 7 days (update frequency)
 ! Version: 1
-! Last modified: 17 Jul 2020
+! Last modified: 30 Aug 2020
 ! Homepage: https://github.com/jakubvalenta/adblock-lists
 ! License: https://www.apache.org/licenses/LICENSE-2.0
 
 youtube.com##ytd-comments
+youtube.com###top-level-buttons
+youtube.com###sentiment
+youtube.com###owner-sub-count

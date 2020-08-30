@@ -2,21 +2,26 @@
 
 Modify some websites using Adblock.
 
-## Facebook Feed
+## Facebook
 
-Remove events and recommendations from the Facebook feed.
+- Hide events and recommendations from the feed.
+- Hide Stories.
+- Hide Rooms.
 
-https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/facebookfeed.txt
+https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/facebook.txt
 
-## Instagram and Facebook
+## Instagram
 
-Remove Stories from the Instagram and Facebook websites.
+- Hide Stories.
+- Hide the number of likes.
 
-https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/stories.txt
+https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/instagram.txt
 
 ## YouTube
 
-Remove all comments.
+- Hide all comments.
+- Hide the number of subscribers.
+- Hide video rating.
 
 https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/youtube.txt
 
@@ -27,9 +32,9 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/youtube.txt
 2. Add URLs of the desired filter lists to _uBLock Origin Settings_ > _Filter
    Lists_ > _Custom_:
 
-    https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/facebookfeed.txt
+    https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/facebook.txt
 
-    https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/stories.txt
+    https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/instagram.txt
 
     https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/youtube.txt
 

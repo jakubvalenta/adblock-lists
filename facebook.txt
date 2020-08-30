@@ -1,10 +1,12 @@
 [Adblock Plus 2.0]
-! Title: Facebook Feed Filter List
-! Description: Remove events and recommendations from the Facebook feed
+! Title: Facebook Filter List
+! Description: Hide events, recommendations, Stories and Rooms
 ! Expires: 7 days (update frequency)
 ! Version: 1
-! Last modified: 12 Jun 2020
+! Last modified: 30 Aug 2020
 ! Homepage: https://github.com/jakubvalenta/adblock-lists
 ! License: https://www.apache.org/licenses/LICENSE-2.0
 
+facebook.com##div[aria-label=Stories]
 facebook.com##h4:has-text(/interested|going|recommend|went/):upward(div[data-pagelet])
+facebook.com##div[data-pagelet=VideoChatHomeUnit]
