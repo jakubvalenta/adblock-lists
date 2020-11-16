@@ -17,6 +17,13 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/facebook.txt
 
 https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/instagram.txt
 
+## Twitter
+
+- Hide the "You might like" section.
+- Hide the "What's happening" section.
+
+https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/twitter.txt
+
 ## YouTube
 
 - Hide all comments.
@@ -35,6 +42,8 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/youtube.txt
     https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/facebook.txt
 
     https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/instagram.txt
+
+    https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/twitter.txt
 
     https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/youtube.txt
 
