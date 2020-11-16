@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/instagram.tx
 
 - Hide the "You might like" section.
 - Hide the "What's happening" section.
+- Hide the "Who to follow" section.
 
 https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/twitter.txt
 

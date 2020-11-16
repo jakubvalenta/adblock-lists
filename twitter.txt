@@ -2,10 +2,11 @@
 ! Title: Twitter Filter List
 ! Description: Hide "You might like" and "What's happening" sections
 ! Expires: 7 days (update frequency)
-! Version: 1
+! Version: 2
 ! Last modified: 16 Nov 2020
 ! Homepage: https://github.com/jakubvalenta/adblock-lists
 ! License: https://www.apache.org/licenses/LICENSE-2.0
 
 twitter.com##h2:has-text(/You might like/):upward(.r-1u4rsef)
 twitter.com##h2:has-text(/What’s happening/):upward(.r-1u4rsef)
+twitter.com##h2:has-text(/Who to follow/):upward(.r-1u4rsef)
