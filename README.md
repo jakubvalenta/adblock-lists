@@ -30,6 +30,9 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/twitter.txt
 - Hide all comments.
 - Hide the number of subscribers.
 - Hide video rating.
+- Hide stream chat ("Live chat replay").
+- Hide the "People also watched" section.
+- Hide the "Learn while you're at home" section.
 
 https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/youtube.txt
 
