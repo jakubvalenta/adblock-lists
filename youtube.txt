@@ -3,7 +3,7 @@
 ! Description: Hide all comments, the number of subscribers, and video rating
 ! Expires: 7 days (update frequency)
 ! Version: 1
-! Last modified: 16 May 2021
+! Last modified: 19 Feb 2022
 ! Homepage: https://github.com/jakubvalenta/adblock-lists
 ! License: https://www.apache.org/licenses/LICENSE-2.0
 
@@ -14,3 +14,4 @@ youtube.com###owner-sub-count
 youtube.com###chat
 youtube.com##h2:has-text(/People also watched/):upward(3)
 youtube.com##h2:has-text(/Learn while you're at home/):upward(3)
+youtube.com##ytd-info-panel-container-renderer

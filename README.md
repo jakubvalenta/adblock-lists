@@ -33,6 +33,7 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/twitter.txt
 - Hide stream chat ("Live chat replay").
 - Hide the "People also watched" section.
 - Hide the "Learn while you're at home" section.
+- Hide the "Developing news" box.
 
 https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/youtube.txt
 
