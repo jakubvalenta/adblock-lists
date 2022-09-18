@@ -17,6 +17,12 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/facebook.txt
 
 https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/instagram.txt
 
+## Substack
+
+- Hide subscribe dialogs.
+
+https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/substack.txt
+
 ## Twitter
 
 - Hide the "You might like" section.
@@ -48,6 +54,8 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/youtube.txt
     https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/facebook.txt
 
     https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/instagram.txt
+
+    https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/substack.txt
 
     https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/twitter.txt
 
