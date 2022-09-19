@@ -2,10 +2,11 @@
 ! Title: Substack Filter List
 ! Description: Hide subscribe dialogs
 ! Expires: 7 days (update frequency)
-! Version: 1
+! Version: 2
 ! Last modified: 19 Sep 2022
 ! Homepage: https://github.com/jakubvalenta/adblock-lists
 ! License: https://www.apache.org/licenses/LICENSE-2.0
 
 substack.com##.subscribe-dialog-friendly-neighborhood
+substack.com##.subscribe-dialog-scroll-modal
 substack.com##.subscribe-dialog-sticky-modal
