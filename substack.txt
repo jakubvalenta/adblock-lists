@@ -3,7 +3,7 @@
 ! Description: Hide subscribe dialogs
 ! Expires: 7 days (update frequency)
 ! Version: 3
-! Last modified: 19 Sep 2022
+! Last modified: 19 Sep 2022 16:00 CET
 ! Homepage: https://github.com/jakubvalenta/adblock-lists
 ! License: https://www.apache.org/licenses/LICENSE-2.0
 
