@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Title: YouTube Filter List
+! Title: German News List
 ! Description: Block German news media websites
 ! Expires: 7 days (update frequency)
-! Version: 1
+! Version: 2
 ! Last modified: 28 May 2024
 ! Homepage: https://github.com/jakubvalenta/adblock-lists
 ! License: https://www.apache.org/licenses/LICENSE-2.0
