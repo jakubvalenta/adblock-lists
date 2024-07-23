@@ -2,15 +2,15 @@
 ! Title: German News List
 ! Description: Block German news media websites
 ! Expires: 7 days (update frequency)
-! Version: 2
-! Last modified: 28 May 2024
+! Version: 3
+! Last modified: 23 July 2024
 ! Homepage: https://github.com/jakubvalenta/adblock-lists
 ! License: https://www.apache.org/licenses/LICENSE-2.0
 
-||berliner-zeitung.de^
-||dw.de^
-||sueddeutsche.de^
-||sz.de^
-||tagesspiegel.de^
-||taz.de^
-||zeit.de^
+||berliner-zeitung.de^$document
+||dw.de^$document
+||sueddeutsche.de^$document
+||sz.de^$document
+||tagesspiegel.de^$document
+||taz.de^$document
+||zeit.de^$document

@@ -44,11 +44,8 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/twitter.txt
 
 https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/youtube.txt
 
-## German News
 
-- Block German news media websites.
 
-https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/german-news.txt
 
 ## Installation
 
