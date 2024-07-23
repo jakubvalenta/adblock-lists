@@ -44,8 +44,11 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/twitter.txt
 
 https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/youtube.txt
 
+## The Guardian
 
+- Block the "You are viewing the International homepage" banner.
 
+https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/theguardian.txt
 
 ## Installation
 
