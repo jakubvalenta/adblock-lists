@@ -34,6 +34,7 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/twitter.txt
 ## YouTube
 
 - Hide all comments.
+- Hide Shorts.
 - Hide the number of subscribers.
 - Hide video rating.
 - Hide heat map ("Most replayed").
@@ -41,12 +42,13 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/twitter.txt
 - Hide the "People also watched" section.
 - Hide the "Learn while you're at home" section.
 - Hide the "Developing news" box.
+- Hide the "Search for ... movies" section.
 
 https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/youtube.txt
 
 ## The Guardian
 
-- Block the "You are viewing the International homepage" banner.
+- Hide the "You are viewing the International homepage" banner.
 
 https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/theguardian.txt
 
