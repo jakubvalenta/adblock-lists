@@ -19,7 +19,8 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/instagram.tx
 
 ## Substack
 
-- Hide subscribe dialogs.
+- Hide subscribe dialog.
+- Hide cookie banner.
 
 https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/substack.txt
 
