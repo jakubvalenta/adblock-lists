@@ -2,11 +2,10 @@
 ! Title: Substack Filter List
 ! Description: Hide subscribe dialog and cookie banner
 ! Expires: 7 days (update frequency)
-! Version: 6
-! Last modified: Sun, 11 May 2025 13:01:01 CEST
+! Version: 7
+! Last modified: Fri, 16 May 2025 13:11:59 CEST
 ! Homepage: https://github.com/jakubvalenta/adblock-lists
 ! License: https://www.apache.org/licenses/LICENSE-2.0
 
-##.single-post-container div[class*="_background_"]
-##.single-post-container div[class*="_subscribeDialog_"]
+##div:has(> div[aria-label="Subscribe modal"])
 ##div[class*="cookieBanner"]
