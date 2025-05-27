@@ -24,6 +24,13 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/instagram.tx
 
 https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/substack.txt
 
+## The Guardian
+
+- Hide header stories.
+- Hide the "You are viewing the International homepage" banner.
+
+https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/theguardian.txt
+
 ## Twitter
 
 - Hide the "You might like" section.
@@ -47,13 +54,6 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/twitter.txt
 
 https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/youtube.txt
 
-## The Guardian
-
-- Hide header stories.
-- Hide the "You are viewing the International homepage" banner.
-
-https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/theguardian.txt
-
 ## Installation
 
 1. Install [uBlock Origin](https://github.com/gorhill/uBlock).
@@ -66,6 +66,8 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/theguardian.
     https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/instagram.txt
 
     https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/substack.txt
+
+    https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/theguardian.txt
 
     https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/twitter.txt
 
