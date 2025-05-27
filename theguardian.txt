@@ -1,10 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: The Guardian List
-! Description: Block banners on The Guardian website
+! Description: Block banners and header stories on The Guardian website
 ! Expires: 7 days (update frequency)
-! Version: 3
-! Last modified: 23 July 2024
+! Version: 4
+! Last modified: Tue, 27 May 2025 12:33:30 +0200
 ! Homepage: https://github.com/jakubvalenta/adblock-lists
 ! License: https://www.apache.org/licenses/LICENSE-2.0
 
 theguardian.com##[name="EditionSwitcherBanner"]
+theguardian.com##header > section:nth-child(2)

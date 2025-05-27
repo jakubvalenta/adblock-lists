@@ -49,6 +49,7 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/youtube.txt
 
 ## The Guardian
 
+- Hide header stories.
 - Hide the "You are viewing the International homepage" banner.
 
 https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/theguardian.txt
