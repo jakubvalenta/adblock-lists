@@ -2,12 +2,13 @@
 ! Title: YouTube Filter List
 ! Description: Hide comments, number of subscribers, rating, heat map etc
 ! Expires: 7 days (update frequency)
-! Version: 2
-! Last modified: 10 Sept 2024
+! Version: 3
+! Last modified: 25 Nov 2025
 ! Homepage: https://github.com/jakubvalenta/adblock-lists
 ! License: https://www.apache.org/licenses/LICENSE-2.0
 
 youtube.com###chat
+youtube.com###expandable-metadata
 youtube.com###owner-sub-count
 youtube.com###sentiment
 youtube.com###top-level-buttons .ytd-toggle-button-renderer
