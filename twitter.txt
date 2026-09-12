@@ -1,12 +1,14 @@
 [Adblock Plus 2.0]
-! Title: Twitter Filter List
-! Description: Hide "You might like" and "What's happening" sections
+! Title: X (Twitter) Filter List
+! Description: Hide "Relevant people" and "Trending" sections
 ! Expires: 7 days (update frequency)
-! Version: 3
-! Last modified: 21 Nov 2020
+! Version: 4
+! Last modified: 12 Sep 2026
 ! Homepage: https://github.com/jakubvalenta/adblock-lists
 ! License: https://www.apache.org/licenses/LICENSE-2.0
 
 twitter.com##h2:has-text(/You might like/):upward(3)
 twitter.com##h1:has-text(/Trending now/):upward(4)
 twitter.com##h2:has-text(/Who to follow/):upward(3)
+x.com##[aria-label="Relevant people"]
+x.com##[aria-label="Timeline: Trending now"]

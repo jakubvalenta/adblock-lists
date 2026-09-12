@@ -31,11 +31,10 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/substack.txt
 
 https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/theguardian.txt
 
-## Twitter
+## X (Twitter)
 
-- Hide the "You might like" section.
-- Hide the "What's happening" section.
-- Hide the "Who to follow" section.
+- Hide the "Relevant people" section.
+- Hide the "Trending" section.
 
 https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/twitter.txt
 
