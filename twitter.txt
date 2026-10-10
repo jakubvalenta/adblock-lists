@@ -12,3 +12,4 @@ twitter.com##h1:has-text(/Trending now/):upward(4)
 twitter.com##h2:has-text(/Who to follow/):upward(3)
 x.com##[aria-label="Relevant people"]
 x.com##[aria-label="Timeline: Trending now"]
+x.com##h2:has-text(/Relevant people/):upward(1)
