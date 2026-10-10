@@ -40,6 +40,7 @@ https://raw.githubusercontent.com/jakubvalenta/adblock-lists/master/twitter.txt
 
 ## YouTube
 
+- Hide recommendations.
 - Hide all comments.
 - Hide Shorts.
 - Hide the number of subscribers.
